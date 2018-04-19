@@ -10,13 +10,6 @@ function EgyptianGoddesses(name, oversees, strength, weakness) {
   this.oversees = oversees;
   this.strength = strength;
   this.weakness = weakness;
-
-  // return function() {
-  //   this.name,
-  //   this.oversees,
-  //   this.strength,
-  //   this.weakness
-  // }
   
 }
 
